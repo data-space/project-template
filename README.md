@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Datasets directory](/Data/README.md) 
-- [Project files for David Oury](/Oury/README.md)
+- [Project Work - David Oury](/Oury/README.md)
 
 ## Introduction
 
@@ -40,6 +40,9 @@ More details can be found in the [README.md](/Data/README.md) file there.
 ## Project Contents
 
 Include descriptions of work performed on this project and where it can be found. 
+
+## Helpful Links
+
 See these two links for help on GitHub markdown syntax: 
 
 - https://guides.github.com/features/mastering-markdown/

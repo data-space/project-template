@@ -2,6 +2,9 @@
 
 ## Table of Contents
 
+- [Datasets directory](/Data/README.md) 
+- [Project files for David Oury](/Oury/README.md)
+
 ## Introduction
 
 Give your readers an overview of the purpose of your project in a paragraph or two.
@@ -29,22 +32,21 @@ Include their focus for this project.
 List contact information if the
 contributors allow this. 
 
+## Data
+
+The `Data` subdirectory contains project datasets. 
+More details can be found in the [README.md](/Data/README.md) file there. 
+
 ## Project Contents
 
 Include descriptions of work performed on this project and where it can be found. 
+See these two links for help on GitHub markdown syntax: 
 
-### Data
+- https://guides.github.com/features/mastering-markdown/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-The `Data` subdirectory contains project data sets. 
-More details can be found in the [README.md](/Data/README.md) file there. 
+R projects can be published to <http://shinyapps.io>.
 
-### 
+Python notebooks will be displayed correctly by GitHub. 
 
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 

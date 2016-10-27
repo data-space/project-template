@@ -38,3 +38,13 @@ Include descriptions of work performed on this project and where it can be found
 The `Data` subdirectory contains project data sets. 
 More details can be found in the [README.md](/Data/README.md) file there. 
 
+### 
+
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+

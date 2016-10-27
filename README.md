@@ -36,5 +36,5 @@ Include descriptions of work performed on this project and where it can be found
 ### Data
 
 The `Data` subdirectory contains project data sets. 
-More details can be found in the [README.md](data/README.md) file there. 
+More details can be found in the [README.md](./data/README.md) file there. 
 

@@ -1,5 +1,7 @@
 # Project name
 
+## Table of Contents
+
 ## Introduction
 
 Give your readers an overview of the purpose of your project in a paragraph or two.
@@ -30,4 +32,9 @@ contributors allow this.
 ## Project Contents
 
 Include descriptions of work performed on this project and where it can be found. 
+
+### Data
+
+The `Data` subdirectory contains project data sets. 
+More details can be found in the [README.md](data/README.md) file there. 
 

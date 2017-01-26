@@ -62,8 +62,10 @@ It does though display Rmd and PDF files.
 RStudio can be configured to knit PDF files.
 
 R projects can be published to <http://shinyapps.io> or <https://rpubs.com>.
+The Jupyter Notebook running in a Docker container can create R and Spark notebooks. 
 
-Python notebooks will be displayed correctly by GitHub. 
+Notebooks will be displayed correctly by GitHub. 
+This suggests that using the Jupyter Docker Notebooks make sharing results easy. 
 
 There seem to be [many ways to run Python online](https://blog.ouseful.info/2014/12/12/seven-ways-of-running-ipython-notebooks/).
 One of these is [Binder](https://github.com/binder-project/binder), which looks like an interesting project.

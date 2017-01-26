@@ -6,21 +6,25 @@ Give your readers a short description and list of goals of your project.
 
 ## Project directory
 
+This section provides links to other important files and directories. 
+
 - [Datasets directory](/Data/README.md) 
 - [Project Work - David Oury](/Oury/README.md)
 
 ## Audience
 
 Provide a short description of the intended audience. 
-Include any assumptions such as expected background or expertise level. 
+Include any assumptions you have of their background or expertise level. 
 
 ## Requirements
 
 List anything your project requires in order to work as expected, such as applications and libraries (with version numbers) and external data files. 
+Assume as little as possible about what you readers know how to do. 
 
 ## Installation/Use
 
-Describe how to install your project. Provide step by step examples. Don't assume your users know how to clone from your GitHub repository. 
+Describe how to install, run or use your project. 
+Provide step by step examples. 
 
 Some projects will produce documentation that can be read from GitHub. 
 Others will need to be cloned to retrieve the files. 

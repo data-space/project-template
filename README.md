@@ -1,13 +1,13 @@
 # Project name
 
-## Table of Contents
+## Introduction
+
+Give your readers a short description and list of goals of your project. 
+
+## Project directory
 
 - [Datasets directory](/Data/README.md) 
 - [Project Work - David Oury](/Oury/README.md)
-
-## Introduction
-
-Give your readers an overview of the purpose of your project in a paragraph or two.
 
 ## Audience
 

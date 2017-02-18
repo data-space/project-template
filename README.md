@@ -9,9 +9,14 @@ Give your readers a short description and list of goals of your project.
 Provide a short description of the intended audience. 
 Include any assumptions you have of their background or expertise level. 
 
-## Project Contents
+## Project description
 
 Include descriptions of work performed on this project and where it can be found. 
+
+This section provides links to other important files and directories. 
+
+- [Datasets directory](/Data/README.md) 
+- [Project Work - David Oury](/Oury/README.md)
 
 ## Usage notes
 
@@ -26,13 +31,6 @@ Others will need to be cloned to retrieve the files.
 
 Include any configuration instructions and configuration options. 
 Describe how and where to set them.
-
-## Project directory
-
-This section provides links to other important files and directories. 
-
-- [Datasets directory](/Data/README.md) 
-- [Project Work - David Oury](/Oury/README.md)
 
 ## Contributors
 

@@ -4,24 +4,19 @@
 
 Give your readers a short description and list of goals of your project. 
 
-## Project directory
-
-This section provides links to other important files and directories. 
-
-- [Datasets directory](/Data/README.md) 
-- [Project Work - David Oury](/Oury/README.md)
-
 ## Audience
 
 Provide a short description of the intended audience. 
 Include any assumptions you have of their background or expertise level. 
 
-## Requirements
+## Project Contents
+
+Include descriptions of work performed on this project and where it can be found. 
+
+## Usage notes
 
 List anything your project requires in order to work as expected, such as applications and libraries (with version numbers) and external data files. 
 Assume as little as possible about what you readers know how to do. 
-
-## Installation/Use
 
 Describe how to install, run or use your project. 
 Provide step by step examples. 
@@ -32,21 +27,24 @@ Others will need to be cloned to retrieve the files.
 Include any configuration instructions and configuration options. 
 Describe how and where to set them.
 
+## Project directory
+
+This section provides links to other important files and directories. 
+
+- [Datasets directory](/Data/README.md) 
+- [Project Work - David Oury](/Oury/README.md)
+
 ## Contributors
 
 This is the list of project contributors.
-Include their focus for this project. 
+Describe their work for this project. 
 List contact information if the
 contributors allow this. 
 
 ## Data
 
 The `Data` subdirectory contains project datasets. 
-More details can be found in the [README.md](/Data/README.md) file there. 
-
-## Project Contents
-
-Include descriptions of work performed on this project and where it can be found. 
+More details can be found in the [README.md](/Data/README.md) file in the `Data` directory.
 
 ## Helpful Hints (delete this)
 
